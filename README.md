@@ -1,16 +1,14 @@
 # Multimodal Non-Invasive Diabetes Classification Dataset
 
-[![DOI](https://img.shields.io/badge/DOI-YOUR__DOI__HERE-blue)](https://doi.org/YOUR_DOI_HERE)
-[![Data](https://img.shields.io/badge/Data-Mendeley%20Data-red)](YOUR_MENDELEY_URL_HERE)
+[![DOI]()]((https://data.mendeley.com/datasets/rt3kjtz8fr/1))
+[![Data](https://img.shields.io/badge/Data-Mendeley%20Data-red)](https://data.mendeley.com/datasets/rt3kjtz8fr/1)
 ![Rows](https://img.shields.io/badge/rows-15%2C720-informational)
 ![Columns](https://img.shields.io/badge/columns-56-informational)
-<!-- Add a license badge once the license is confirmed (see "License" below). -->
+
 
 A harmonized, tabular dataset for **non-invasive diabetes-status classification**. It merges five source collections into one 56-column schema covering three sensing tiers: near-infrared (NIR) optical signals, wearable physiological signals, and demographic/environmental covariates.
 
 > **Read this first:** 43.9% of the rows are synthetic, and real/synthetic status is fully determined by source collection. Baseline accuracy is near ceiling (AUC up to 0.999). Part of that comes from the synthetic sources and from source-specific artifacts, not from physiology alone. See [Known limitations and usage warnings](#known-limitations-and-usage-warnings) before benchmarking anything.
-
-![Dataset overview](assets/dataset_overview.png)
 
 ---
 
@@ -240,7 +238,7 @@ If the CSV is large, use Git LFS or point to the Mendeley download instead of co
 The CSV, data dictionary, and EDA notebook are available from Mendeley Data. No registration is required.
 
 - Repository: Mendeley Data
-- DOI: [YOUR_DOI_HERE](https://doi.org/YOUR_DOI_HERE)
+- DOI: [YOUR_DOI_HERE](https://data.mendeley.com/datasets/rt3kjtz8fr/1)
 - URL: <YOUR_MENDELEY_URL_HERE>
 
 ## Citation
